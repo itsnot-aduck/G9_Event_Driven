@@ -1,0 +1,6 @@
+../Core/Src/lcd_i2c.c:69:13:LCD_Write	32	static
+../Core/Src/lcd_i2c.c:110:6:LCD_Init	24	static
+../Core/Src/lcd_i2c.c:142:13:LCD_WriteChar	16	static
+../Core/Src/lcd_i2c.c:147:6:LCD_WriteString	16	static
+../Core/Src/lcd_i2c.c:155:6:LCD_Clear	16	static
+../Core/Src/lcd_i2c.c:161:6:LCD_SetCursor	24	static
